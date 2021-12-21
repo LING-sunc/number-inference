@@ -1,0 +1,225 @@
+﻿List,Task,Item,Scale,Condition,Character,Statement,Question
+1,notalt,1,some,target,Peter,Some of the children are smiling.,not all of the children are smiling? 
+1,notalt,2,some,target,Jane,Some of the exams are difficult.,not all of the exams are difficult?
+1,notalt,3,some,target,Mary,Some of the assignments are finished.,not all of the assignments are finished?
+1,notalt,4,some,CF,Mary,Some of the plants have flowers. ,none of the plants have flowers?
+1,notalt,5,some,CF,John,All of the students went to the party. ,some of the students did not go to the party?
+1,notalt,6,some,CF,Peter,All of the museums hosted exhibitions.,none of the museums hosted exhibitions?
+1,notalt,7,some,CT,Jane,Some of the cows have been milked.,not none of the cows have been milked?
+1,notalt,8,some,CT,Peter,Some of the files have been deleted.,not none of the files have been deleted?
+1,notalt,9,some,CT,Mary,Some of the products have been sold.,not none of the products have been sold? 
+1,notalt,10,possible,target,John,It is possible that Mary will come to the party.,it is not certain that Mary will come to the party?
+1,notalt,11,possible,target,Jane,It is possible that the train will arrive on time.,it is not certain that the train will arrive on time?
+1,notalt,12,possible,target,Peter,It is possible that the flower will blossom.,it is not certain that the flower will blossom?
+1,notalt,13,possible,CF,John,It is certain that the cat will eat the mouse.,it is impossible that the cat will eat the mouse?
+1,notalt,14,possible,CF,Mary,It is certain that it will rain tomorrow.,it is impossible that it will rain tomorrow?
+1,notalt,15,possible,CF,Peter,It is possible that Peter will pass the exam.,It is impossible that Peter will pass the exam? 
+1,notalt,16,possible,CT,John,It is possible that the shop will be open on Sunday.,it is not impossible that the shop will be open on Sunday? 
+1,notalt,17,possible,CT,Mary,It is possible that Mary will attend the lecture.,it is not impossible that Mary will attend the lecture?
+1,notalt,18,possible,CT,Jane,It is possible that the boy will play the piano.,it is not impossible that the boy will play the piano?
+1,notalt,19,number,target,John,Three horses are in the field.,it is not true that four horses are in the field?
+1,notalt,20,number,target,Mary,Four chairs are in the room.,it is not true that five chairs are in the room?
+1,notalt,21,number,target,Jane,Five films are on show. ,It is not true that six films are on show? 
+1,notalt,22,number,CF,John,Three computers are broken.,no more than two computers are broken?
+1,notalt,23,number,CF,Jane,Four birds are flying. ,no more than three birds are flying?
+1,notalt,24,number,CF,Mary,Five books are new. ,no more than four books are new?
+1,notalt,25,number,CT,Peter,Three girls are dancing. ,more than two girls are dancing?
+1,notalt,26,number,CT,Jane,Four balls are bouncing. ,more than three balls are bouncing?
+1,notalt,27,number,CT,John,Five dogs are barking.,more than four dogs are barking?
+1,couldalt,28,some,target,Peter,Some of the babies are sleeping. ,all of the babies are sleeping?
+1,couldalt,29,some,target,Jane,Some of the questions are easy. ,all of the questions are easy?
+1,couldalt,30,some,target,Mary,Some of the batteries are charged.,all of the batteries are charged?
+1,couldalt,31,some,CF,Mary,Some of the photos have frames.,none of the photos have frames?
+1,couldalt,32,some,CF,John,All of the teachers attended the meeting. ,some of the teachers did not attend the meeting?
+1,couldalt,33,some,CF,Peter,All of the stores sold newspapers. ,none of the stores sold newspapers?
+1,couldalt,34,some,CT,Jane,Some of the cats have been fed. ,not none of the cats have been fed?
+1,couldalt,35,some,CT,Peter,Some of the articles have been published. ,not none of the articles have been published?
+1,couldalt,36,some,CT,Mary,Some of the cookies have been baked. ,not none of the cookies have been baked?
+1,couldalt,37,possible,target,John,It is possible that Leon will turn up tonight. ,it is certain that Leon will turn up tonight?
+1,couldalt,38,possible,target,Jane,It is possible that the event will happen.,it is certain that the event will happen?
+1,couldalt,39,possible,target,Peter,It is possible that the seed will grow.,it is certain that the seed will grow?
+1,couldalt,40,possible,CF,John,It is certain that the drug will kill the bacteria.,it is impossible that the drug will kill the bacteria?
+1,couldalt,41,possible,CF,Mary,It is certain that it will snow today.,it is impossible that it will snow today?
+1,couldalt,42,possible,CF,Peter,It is possible that Jane will get the work done.,It is impossible that Jane will get the work done?
+1,couldalt,43,possible,CT,John,It is possible that the tickets will be on sale.,it is not impossible that the tickets will be on sale
+1,couldalt,44,possible,CT,Mary,It is possible that John will stay at home.,it is not impossible that John will be at home
+1,couldalt,45,possible,CT,Jane,It is possible that the girl will sing a song. ,it is not impossible that the girl will sing a song
+1,couldalt,46,number,target,John,Three monkeys are in the zoo. ,four monkeys are in the zoo?
+1,couldalt,47,number,target,Mary,Four paintings are on the wall. ,five paintings are on the wall?
+1,couldalt,48,number,target,Jane,Five brands are on discount.,six brands are on discount?
+1,couldalt,49,number,CF,John,Three photos are black-and-white. ,no more than two photos are black-and-white?
+1,couldalt,50,number,CF,Jane,Four dogs are running.,no more than three dogs are running?
+1,couldalt,51,number,CF,Mary,Five pencils are sharp.,no more than four pencils are sharp?
+1,couldalt,52,number,CT,Peter,Three boys are playing cards. ,more than two boys are playing cards?
+1,couldalt,53,number,CT,Jane,Four cars are moving.,more than three cars are moving?
+1,couldalt,54,number,CT,John,Five ducks are swimming. ,more than four ducks are swimming?
+2,notalt,28,some,target,Peter,Some of the babies are sleeping. ,not all of the babies are sleeping?
+2,notalt,29,some,target,Jane,Some of the questions are easy. ,not all of the questions are easy?
+2,notalt,30,some,target,Mary,Some of the batteries are charged.,not all of the batteries are charged?
+2,notalt,31,some,CF,Mary,Some of the photos have frames.,none of the photos have frames?
+2,notalt,32,some,CF,John,All of the teachers attended the meeting. ,some of the teachers did not attend the meeting?
+2,notalt,33,some,CF,Peter,All of the stores sold newspapers. ,some of the stores did not sell newspapers?
+2,notalt,34,some,CT,Jane,Some of the cats have been fed. ,not none of the cats have been fed?
+2,notalt,35,some,CT,Peter,Some of the articles have been published. ,not none of the articles have been published?
+2,notalt,36,some,CT,Mary,Some of the cookies have been baked. ,not none of the cookies have been baked?
+2,notalt,37,possible,target,John,It is possible that Leon will turn up tonight. ,it is not certain that Leon will turn up tonight?
+2,notalt,38,possible,target,Jane,It is possible that the event will happen.,it is not certain that the event will happen?
+2,notalt,39,possible,target,Peter,It is possible that the seed will grow.,it is not certain that the seed will grow?
+2,notalt,40,possible,CF,John,It is certain that the drug will kill the bacteria.,it is impossible that the drug will kill the bacteria?
+2,notalt,41,possible,CF,Mary,It is certain that it will snow today.,it is impossible that it will snow today?
+2,notalt,42,possible,CF,Peter,It is possible that Jane will get the work done.,It is impossible that Jane will get the work done?
+2,notalt,43,possible,CT,John,It is possible that the tickets will be on sale.,it is not impossible that the tickets will be on sale?
+2,notalt,44,possible,CT,Mary,It is possible that John will stay at home.,it is not impossible that John will stay at home?
+2,notalt,45,possible,CT,Jane,It is possible that the girl will sing a song. ,it is not impossible that the girl will sing a song?
+2,notalt,46,number,target,John,Three monkeys are in the zoo. ,it is not true that four monkeys are in the zoo?
+2,notalt,47,number,target,Mary,Four paintings are on the wall. ,it is not true that five paintings are on the wall?
+2,notalt,48,number,target,Jane,Five brands are on discount.,it is not true that six brands are on discount?
+2,notalt,49,number,CF,John,Three photos are black-and-white. ,no more than two photos are black-and-white?
+2,notalt,50,number,CF,Jane,Four dogs are running.,no more than three dogs are running?
+2,notalt,51,number,CF,Mary,Five pencils are sharp.,no more than four pencils are sharp?
+2,notalt,52,number,CT,Peter,Three boys are playing cards. ,more than two boys are playing cards?
+2,notalt,53,number,CT,Jane,Four cars are moving.,more than three cars are moving?
+2,notalt,54,number,CT,John,Five ducks are swimming. ,more than four ducks are swimming?
+2,couldalt,1,some,target,Peter,Some of the children are smiling.,all of the children are smiling?
+2,couldalt,2,some,target,Jane,Some of the exams are difficult.,all of the exams are difficult?
+2,couldalt,3,some,target,Mary,Some of the assignments are finished.,all of the assignments are finished?
+2,couldalt,4,some,CF,Mary,Some of the plants have flowers. ,none of the plants have flowers?
+2,couldalt,5,some,CF,John,All of the museums hosted exhibitions.,none of the museums hosted exhibitions?
+2,couldalt,6,some,CF,Peter,All of the students went to the party. ,some of the students did not go to the party?
+2,couldalt,7,some,CT,Jane,Some of the cows have been milked.,not none of the cows have been milked?
+2,couldalt,8,some,CT,Peter,Some of the files have been deleted.,not none of the files have been deleted?
+2,couldalt,9,some,CT,Mary,Some of the products have been sold.,not none of the products have been sold? 
+2,couldalt,10,possible,target,John,It is possible that Mary will come to the party.,it is certain that Mary will come to the party? 
+2,couldalt,11,possible,target,Jane,It is possible that the train will arrive on time.,it is certain that the train will arrive on time?
+2,couldalt,12,possible,target,Peter,It is possible that the flower will blossom.,it is certain that the flower will blossom?
+2,couldalt,15,possible,CF,John,It is possible that Peter will pass the exam.,it is impossible that Peter will pass the exam? 
+2,couldalt,13,possible,CF,Mary,It is certain that the cat will eat the mouse.,it is impossible that the cat will eat the mouse?
+2,couldalt,14,possible,CF,Peter,It is certain that it will rain tomorrow.,it is impossible that it will rain tomorrow?
+2,couldalt,16,possible,CT,John,It is possible that the shop will be open on Sunday.,it is not impossible that the shop will be open on Sunday
+2,couldalt,17,possible,CT,Mary,It is possible that Mary will attend the lecture.,it is not impossible that Mary will attend the lecture
+2,couldalt,18,possible,CT,Jane,It is possible that the boy will play the piano.,it is not impossible that the boy will play the piano
+2,couldalt,19,number,target,John,Three horses are in the field.,four horses are in the field?
+2,couldalt,20,number,target,Mary,Four chairs are in the room.,five chairs are in the room?
+2,couldalt,21,number,target,Jane,Five films are on show. ,six films are on show? 
+2,couldalt,22,number,CF,John,Three computers are broken.,no more than two computers are broken?
+2,couldalt,23,number,CF,Jane,Four birds are flying. ,no more than three birds are flying?
+2,couldalt,24,number,CF,Mary,Five books are new. ,no more than four books are new?
+2,couldalt,25,number,CT,Peter,Three girls are dancing. ,more than two girls are dancing?
+2,couldalt,26,number,CT,Jane,Four balls are bouncing. ,more than three balls are bouncing?
+2,couldalt,27,number,CT,John,Five dogs are barking.,more than four dogs are barking?
+3,couldalt,1,some,target,Peter,Some of the children are smiling.,all of the children are smiling?
+3,couldalt,2,some,target,Jane,Some of the exams are difficult.,all of the exams are difficult?
+3,couldalt,3,some,target,Mary,Some of the assignments are finished.,all of the assignments are finished?
+3,couldalt,4,some,CF,Mary,Some of the plants have flowers. ,none of the plants have flowers?
+3,couldalt,5,some,CF,John,All of the museums hosted exhibitions.,none of the museums hosted exhibitions?
+3,couldalt,6,some,CF,Peter,All of the students went to the party. ,some of the students did not go to the party?
+3,couldalt,7,some,CT,Jane,Some of the cows have been milked.,not none of the cows have been milked?
+3,couldalt,8,some,CT,Peter,Some of the files have been deleted.,not none of the files have been deleted?
+3,couldalt,9,some,CT,Mary,Some of the products have been sold.,not none of the products have been sold? 
+3,couldalt,10,possible,target,John,It is possible that Mary will come to the party.,it is certain that Mary will come to the party? 
+3,couldalt,11,possible,target,Jane,It is possible that the train will arrive on time.,it is certain that the train will arrive on time?
+3,couldalt,12,possible,target,Peter,It is possible that the flower will blossom.,it is certain that the flower will blossom?
+3,couldalt,15,possible,CF,John,It is possible that Peter will pass the exam.,it is impossible that Peter will pass the exam? 
+3,couldalt,13,possible,CF,Mary,It is certain that the cat will eat the mouse.,it is impossible that the cat will eat the mouse?
+3,couldalt,14,possible,CF,Peter,It is certain that it will rain tomorrow.,it is impossible that it will rain tomorrow?
+3,couldalt,16,possible,CT,John,It is possible that the shop will be open on Sunday.,it is not impossible that the shop will be open on Sunday
+3,couldalt,17,possible,CT,Mary,It is possible that Mary will attend the lecture.,it is not impossible that Mary will attend the lecture
+3,couldalt,18,possible,CT,Jane,It is possible that the boy will play the piano.,it is not impossible that the boy will play the piano
+3,couldalt,19,number,target,John,Three horses are in the field.,four horses are in the field?
+3,couldalt,20,number,target,Mary,Four chairs are in the room.,five chairs are in the room?
+3,couldalt,21,number,target,Jane,Five films are on show. ,six films are on show? 
+3,couldalt,22,number,CF,John,Three computers are broken.,no more than two computers are broken?
+3,couldalt,23,number,CF,Jane,Four birds are flying. ,no more than three birds are flying?
+3,couldalt,24,number,CF,Mary,Five books are new. ,no more than four books are new?
+3,couldalt,25,number,CT,Peter,Three girls are dancing. ,more than two girls are dancing?
+3,couldalt,26,number,CT,Jane,Four balls are bouncing. ,more than three balls are bouncing?
+3,couldalt,27,number,CT,John,Five dogs are barking.,more than four dogs are barking?
+3,notalt,28,some,target,Peter,Some of the babies are sleeping. ,not all of the babies are sleeping?
+3,notalt,29,some,target,Jane,Some of the questions are easy. ,not all of the questions are easy?
+3,notalt,30,some,target,Mary,Some of the batteries are charged.,not all of the batteries are charged?
+3,notalt,31,some,CF,Mary,Some of the photos have frames.,none of the photos have frames?
+3,notalt,32,some,CF,John,All of the teachers attended the meeting. ,some of the teachers did not attend the meeting?
+3,notalt,33,some,CF,Peter,All of the stores sold newspapers. ,some of the stores did not sell newspapers?
+3,notalt,34,some,CT,Jane,Some of the cats have been fed. ,not none of the cats have been fed?
+3,notalt,35,some,CT,Peter,Some of the articles have been published. ,not none of the articles have been published?
+3,notalt,36,some,CT,Mary,Some of the cookies have been baked. ,not none of the cookies have been baked?
+3,notalt,37,possible,target,John,It is possible that Leon will turn up tonight. ,it is not certain that Leon will turn up tonight?
+3,notalt,38,possible,target,Jane,It is possible that the event will happen.,it is not certain that the event will happen?
+3,notalt,39,possible,target,Peter,It is possible that the seed will grow.,it is not certain that the seed will grow?
+3,notalt,40,possible,CF,John,It is certain that the drug will kill the bacteria.,it is impossible that the drug will kill the bacteria?
+3,notalt,41,possible,CF,Mary,It is certain that it will snow today.,it is impossible that it will snow today?
+3,notalt,42,possible,CF,Peter,It is possible that Jane will get the work done.,It is impossible that Jane will get the work done?
+3,notalt,43,possible,CT,John,It is possible that the tickets will be on sale.,it is not impossible that the tickets will be on sale?
+3,notalt,44,possible,CT,Mary,It is possible that John will stay at home.,it is not impossible that John will stay at home?
+3,notalt,45,possible,CT,Jane,It is possible that the girl will sing a song. ,it is not impossible that the girl will sing a song?
+3,notalt,46,number,target,John,Three monkeys are in the zoo. ,it is not true that four monkeys are in the zoo?
+3,notalt,47,number,target,Mary,Four paintings are on the wall. ,it is not true that five paintings are on the wall?
+3,notalt,48,number,target,Jane,Five brands are on discount.,it is not true that six brands are on discount?
+3,notalt,49,number,CF,John,Three photos are black-and-white. ,no more than two photos are black-and-white?
+3,notalt,50,number,CF,Jane,Four dogs are running.,no more than three dogs are running?
+3,notalt,51,number,CF,Mary,Five pencils are sharp.,no more than four pencils are sharp?
+3,notalt,52,number,CT,Peter,Three boys are playing cards. ,more than two boys are playing cards?
+3,notalt,53,number,CT,Jane,Four cars are moving.,more than three cars are moving?
+3,notalt,54,number,CT,John,Five ducks are swimming. ,more than four ducks are swimming?
+4,couldalt,28,some,target,Peter,Some of the babies are sleeping. ,all of the babies are sleeping?
+4,couldalt,29,some,target,Jane,Some of the questions are easy. ,all of the questions are easy?
+4,couldalt,30,some,target,Mary,Some of the batteries are charged.,all of the batteries are charged?
+4,couldalt,31,some,CF,Mary,Some of the photos have frames.,none of the photos have frames?
+4,couldalt,32,some,CF,John,All of the teachers attended the meeting. ,some of the teachers did not attend the meeting?
+4,couldalt,33,some,CF,Peter,All of the stores sold newspapers. ,none of the stores sold newspapers?
+4,couldalt,34,some,CT,Jane,Some of the cats have been fed. ,not none of the cats have been fed?
+4,couldalt,35,some,CT,Peter,Some of the articles have been published. ,not none of the articles have been published?
+4,couldalt,36,some,CT,Mary,Some of the cookies have been baked. ,not none of the cookies have been baked?
+4,couldalt,37,possible,target,John,It is possible that Leon will turn up tonight. ,it is certain that Leon will turn up tonight?
+4,couldalt,38,possible,target,Jane,It is possible that the event will happen.,it is certain that the event will happen?
+4,couldalt,39,possible,target,Peter,It is possible that the seed will grow.,it is certain that the seed will grow?
+4,couldalt,40,possible,CF,John,It is certain that the drug will kill the bacteria.,it is impossible that the drug will kill the bacteria?
+4,couldalt,41,possible,CF,Mary,It is certain that it will snow today.,it is impossible that it will snow today?
+4,couldalt,42,possible,CF,Peter,It is possible that Jane will get the work done.,It is impossible that Jane will get the work done?
+4,couldalt,43,possible,CT,John,It is possible that the tickets will be on sale.,it is not impossible that the tickets will be on sale
+4,couldalt,44,possible,CT,Mary,It is possible that John will stay at home.,it is not impossible that John will be at home
+4,couldalt,45,possible,CT,Jane,It is possible that the girl will sing a song. ,it is not impossible that the girl will sing a song
+4,couldalt,46,number,target,John,Three monkeys are in the zoo. ,four monkeys are in the zoo?
+4,couldalt,47,number,target,Mary,Four paintings are on the wall. ,five paintings are on the wall?
+4,couldalt,48,number,target,Jane,Five brands are on discount.,six brands are on discount?
+4,couldalt,49,number,CF,John,Three photos are black-and-white. ,no more than two photos are black-and-white?
+4,couldalt,50,number,CF,Jane,Four dogs are running.,no more than three dogs are running?
+4,couldalt,51,number,CF,Mary,Five pencils are sharp.,no more than four pencils are sharp?
+4,couldalt,52,number,CT,Peter,Three boys are playing cards. ,more than two boys are playing cards?
+4,couldalt,53,number,CT,Jane,Four cars are moving.,more than three cars are moving?
+4,couldalt,54,number,CT,John,Five ducks are swimming. ,more than four ducks are swimming?
+4,notalt,1,some,target,Peter,Some of the children are smiling.,not all of the children are smiling? 
+4,notalt,2,some,target,Jane,Some of the exams are difficult.,not all of the exams are difficult?
+4,notalt,3,some,target,Mary,Some of the assignments are finished.,not all of the assignments are finished?
+4,notalt,4,some,CF,Mary,Some of the plants have flowers. ,none of the plants have flowers?
+4,notalt,5,some,CF,John,All of the students went to the party. ,some of the students did not go to the party?
+4,notalt,6,some,CF,Peter,All of the museums hosted exhibitions.,none of the museums hosted exhibitions?
+4,notalt,7,some,CT,Jane,Some of the cows have been milked.,not none of the cows have been milked?
+4,notalt,8,some,CT,Peter,Some of the files have been deleted.,not none of the files have been deleted?
+4,notalt,9,some,CT,Mary,Some of the products have been sold.,not none of the products have been sold? 
+4,notalt,10,possible,target,John,It is possible that Mary will come to the party.,it is not certain that Mary will come to the party?
+4,notalt,11,possible,target,Jane,It is possible that the train will arrive on time.,it is not certain that the train will arrive on time?
+4,notalt,12,possible,target,Peter,It is possible that the flower will blossom.,it is not certain that the flower will blossom?
+4,notalt,13,possible,CF,John,It is certain that the cat will eat the mouse.,it is impossible that the cat will eat the mouse?
+4,notalt,14,possible,CF,Mary,It is certain that it will rain tomorrow.,it is impossible that it will rain tomorrow?
+4,notalt,15,possible,CF,Peter,It is possible that Peter will pass the exam.,It is impossible that Peter will pass the exam? 
+4,notalt,16,possible,CT,John,It is possible that the shop will be open on Sunday.,it is not impossible that the shop will be open on Sunday? 
+4,notalt,17,possible,CT,Mary,It is possible that Mary will attend the lecture.,it is not impossible that Mary will attend the lecture?
+4,notalt,18,possible,CT,Jane,It is possible that the boy will play the piano.,it is not impossible that the boy will play the piano?
+4,notalt,19,number,target,John,Three horses are in the field.,it is not true that four horses are in the field?
+4,notalt,20,number,target,Mary,Four chairs are in the room.,it is not true that five chairs are in the room?
+4,notalt,21,number,target,Jane,Five films are on show. ,It is not true that six films are on show? 
+4,notalt,22,number,CF,John,Three computers are broken.,no more than two computers are broken?
+4,notalt,23,number,CF,Jane,Four birds are flying. ,no more than three birds are flying?
+4,notalt,24,number,CF,Mary,Five books are new. ,no more than four books are new?
+4,notalt,25,number,CT,Peter,Three girls are dancing. ,more than two girls are dancing?
+4,notalt,26,number,CT,Jane,Four balls are bouncing. ,more than three balls are bouncing?
+4,notalt,27,number,CT,John,Five dogs are barking.,more than four dogs are barking?
+,notalt,,prac,Y,Mary,Peter lives in London.,Peter lives in the United Kingdom?
+,notalt,,prac,N,John,The table is dirty.,the table is clean?
+,notalt,,prac,N,Jane,Peter is short. ,Peter is blond? 
+,notalt,,prac,Y,Peter,The cup is full.,the cup is not empty?
+,couldalt,,prac,Y,Mary ,Peter has a spaniel.,Peter has a dog?
+,couldalt,,prac,N,John ,The window is open.,the window is closed?
+,couldalt,,prac,N,Jane ,The card is yellow. ,the card is blue?
+,couldalt,,prac,Y,Peter,The plant is dead,the plant is not alive?
